@@ -34,24 +34,26 @@ Location entries were inconsistent due to manual input and were standardised usi
 Compensation data was grouped into three tiers, including Paid, Unpaid, and Unspecified. Where ranges were given, a midpoint was calculated for comparison.
 
 ### Deep Dive into Insights
-**On geography**: The U.S. accounted for 41% of postings, concentrated in Los Angeles and New York. Remote roles made up 28%, which was the second largest "location" category. North America and remote combined represented 71% of all opportunities. Europe held just 2.2% despite visible K-entertainment activity in the region.
-**On sectors**: Half of all postings (50%) were in Marketing & Communications. Operations came second at 14.4%, Sales at 7.8%. Creative roles made up just 5.6%.
-**Experience levels**: 36% of roles were entry-level, but 30% of all postings were unpaid when combining volunteer (16%) and internship (14%) positions. Most unpaid roles were in marketing and content. 
-**Compensation**: 30% of all opportunities were unpaid. Remote had the worst compensation profile: 44% of remote roles were unpaid. 
+- **On geography**: The U.S. accounted for 41% of postings, concentrated in Los Angeles and New York. Remote roles made up 28%, which was the second largest "location" category. North America and remote combined represented 71% of all opportunities. Europe held just 2.2% despite visible K-entertainment activity in the region.
+- **On sectors**: Half of all postings (50%) were in Marketing & Communications. Operations came second at 14.4%, Sales at 7.8%. Creative roles made up just 5.6%.
+- **Experience levels**: 36% of roles were entry-level, but 30% of all postings were unpaid when combining volunteer (16%) and internship (14%) positions. Most unpaid roles were in marketing and content.
+- **Compensation**: 30% of all opportunities were unpaid. Remote had the worst compensation profile: 44% of remote roles were unpaid.
+<img width="1200" height="470" alt="Untitled design" src="https://github.com/user-attachments/assets/709d32ee-5bb5-490a-a9e9-c766cf799ebb" />
 
 ### My Recommendations
-•	If you’re starting your career in the industry: target U.S.-based entry-level roles over remote ones because they are far more likely to pay. 
-•	If mid-career or transitioning: manager-level roles make up 28% of the market and are the most realistic transition point. Korea-based roles suit those with 3+ years of experience.
-•	If seeking remote work: vet carefully, because nearly half of remote roles are unpaid. Remote also has a clear ceiling; senior roles are almost entirely in-person.
+- If you’re starting your career in the industry: target U.S.-based entry-level roles over remote ones because they are far more likely to pay.
+- If mid-career or transitioning: manager-level roles make up 28% of the market and are the most realistic transition point. Korea-based roles suit those with 3+ years of experience.
+- If seeking remote work: vet carefully, because nearly half of remote roles are unpaid. Remote also has a clear ceiling; senior roles are almost entirely in-person.
+<img width="1200" height="470" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/4f431096-d621-4bc8-89d0-33dbc71b8036" />
 
 ### Data analysis tools used
 Microsoft Excel: data cleaning, pivot tables, TEXTSPLIT, VLOOKUP, and charting.
 
 ### Limitations
-•	Data covers only postings featured on KoreanEntertainmentJobs.com, not the broader market
-•	English-language postings only; roles requiring Korean fluency were excluded
-•	K-beauty and European roles appear underrepresented, likely due to sourcing gaps
-•	Compensation data was incomplete for a portion of postings
-•	Manually compiled dataset, subject to human error and coverage gaps
-•	Snapshot of 2025 only; trends may shift over time
+- Data covers only postings featured on KoreanEntertainmentJobs.com, not the broader market
+- English-language postings only; roles requiring Korean fluency were excluded
+- K-beauty and European roles appear underrepresented, likely due to sourcing gaps
+- Compensation data was incomplete for a portion of postings
+- Manually compiled dataset, subject to human error and coverage gaps
+- Snapshot of 2025 only; trends may shift over time
 
